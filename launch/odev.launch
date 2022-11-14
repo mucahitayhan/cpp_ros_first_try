@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="cpp_ros_first_try" type="odev" name="cpp_ros_first_try" output="screen">
+    </node>
+</launch>
